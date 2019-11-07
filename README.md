@@ -9,7 +9,7 @@ ProgLab
 Øving 6 er gjennomført med Raspberry Pi ZumoRobot.
 
 Project 1-4 is done alone.
-Project 5-6 is groupprojects.
+Project 5-6 is group-projects.
 
 Project 1 is done with an Arduino-kit.
 Project 5 is done with a Raspberry Pi and a keypad.
