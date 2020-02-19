@@ -1,7 +1,7 @@
 # ProgLab
-Proglab was a course to be known with OOP-python.
+Proglab was a course to get knowledge in OOP-python.
 ## English
-* Project 1-4 is done alone.
+* Project 1-4 is done by me.
 * Project 5-6 is group-projects.
 ### Description
 * Project 1 is done with an Arduino-kit.
